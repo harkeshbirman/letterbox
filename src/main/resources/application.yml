@@ -18,9 +18,9 @@ spring:
     ansi:
       enabled: ALWAYS
 
-logging:
-  file:
-    name: application.log
+#logging:
+#  file:
+#    name: application.log
 #  level:
 #    org:
 #      springframework:

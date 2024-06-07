@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+/src/main/resources/static/18.jpg
+/src/main/resources/static/index.html
+/src/main/resources/static/css/main.css
+/src/main/resources/static/js/main.js
