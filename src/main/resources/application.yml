@@ -5,9 +5,9 @@ spring:
   application:
     name: letterbox
   datasource:
-    url: jdbc:mysql://localhost:3306/letterbox?createDatabaseIfNotExist=true
-    username: root
-    password: password
+    url: jdbc:mysql://database-2.c9mmqgsmok4e.ap-south-1.rds.amazonaws.com/letterbox?createDatabaseIfNotExist=true
+    username: admin #root
+    password: UYq343ZtAi9r4w7gKHPm #password
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
